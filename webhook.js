@@ -1,5 +1,5 @@
 const fetch = require('node-fetch');
-const SLACK_WEBHOOK_URL = 'https://hooks.slack.com/services/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';
+const SLACK_WEBHOOK_URL = 'https://hooks.slack.com/services/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';
 
 function webhook(){
     var today = new Date();
