@@ -19,7 +19,7 @@ function webhook(){
                 "type": "section",
                 "text": {
                     "type": "mrkdwn",
-                    "text": "@org-mgt \n오른쪽 버튼을 눌러 회의에 참석해 주세요~! :hugging_face:\n"
+                    "text": "*오른쪽 버튼*을 눌러 회의에 참석해 주세요~! :hugging_face:\n@org-mgt"
                 },
                 "accessory": {
                     "type": "button",
