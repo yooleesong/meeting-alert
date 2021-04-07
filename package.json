@@ -12,11 +12,11 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "node-fetch": "^2.6.0"
-  },
   "bugs": {
     "url": "https://github.com/yooleesong/meeting-alert/issues"
   },
-  "homepage": "https://github.com/yooleesong/meeting-alert#readme"
+  "homepage": "https://github.com/yooleesong/meeting-alert#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
 }
