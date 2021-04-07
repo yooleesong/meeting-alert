@@ -12,7 +12,7 @@ function webhook(){
                 "type": "header",
                 "text": {
                     "type": "plain_text",
-                    "text": ":star: 곧 조직 관리팀 일일 회의가 시작됩니다. :star:"
+                    "text": ":star: 곧 아침 회의가 시작됩니다. :star:"
                 }
             },
             {
